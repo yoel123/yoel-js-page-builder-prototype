@@ -8,10 +8,15 @@ it is made mostly with vanila js (exept for the save as zip feature it uses jszi
 # features
 
 -create website layout: without code by clicking blocks and btns
+
 -edit mode : edit text elements, links and images.
+
 -import export the whole genrated html
+
 -import export the blocks used by name
+
 -save the page as a zip file contaning all the needed files
+
 -all the blocks are loaded from components.json
 
 # how to use:
@@ -24,15 +29,21 @@ it is made mostly with vanila js (exept for the save as zip feature it uses jszi
 
 
 -click add row if you need another block
+
 -click a block
+
 -select a block by clicking a button in the lightbox the pops
+
 -you can also remove a block or move it up or down (the first 3 buttons in the lightbox).
+
 -click on the switch under edit mode to change to edit mode
 
 *edit mode:
 
 -allows the user to edit text links and images
+
 -click on an element and a lightbox with a form will appear
+
 -edit the text or link image url and click save
 
 
@@ -51,9 +62,10 @@ it is made mostly with vanila js (exept for the save as zip feature it uses jszi
 [![screenshot 7](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder7.png)]
 [![screenshot 8](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder8.png)]
 
-#libs used:
+# libs used:
 
 jszip - for saving created page in a zip
+
 FileSaver.js - for the bigger file size needed
 
 
