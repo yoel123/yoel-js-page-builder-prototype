@@ -1,0 +1,109 @@
+.wrapper
+{
+    width: 80% !important;
+    margin: 0 auto;
+    direction: rtl;
+}
+
+.btn
+{
+	margin-bottom:20px;
+}
+
+
+
+.tcenter
+{
+	text-align:center;
+}
+
+.ytitle_contentp
+{
+	width: 40%;
+    margin: 0 auto;
+}
+.ytitle_left
+{
+	float: left;
+    margin-top: 2px !important;
+}
+
+/*/ytext_img//*/
+.ytxt_img
+{
+	height:200px;
+	padding-top:10px;
+}
+.yp_padd
+{
+	padding-top: 30px;
+}
+
+.img88 
+{
+	width:80%;
+}
+
+/*/end ytext_img//*/
+
+
+/*/lightbox//*/
+
+.lightbox 
+{
+	position:fixed; /* keeps the lightbox window in the current viewport */
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background: rgba(0, 0, 0, 0.5);    /* 50% opaque black */  
+	text-align:center;
+}
+.lightbox_body
+{
+	background:white;
+	width:70%;
+	margin:0 auto;
+}
+
+.close_lightbox
+{
+	width:100%;
+	display: inline-block;
+	margin:20px 0 20px 0;
+}
+
+.lightbox .yitem,.yremove,.btn
+{
+	margin:10px;
+}
+
+.lightbox_content textarea
+{
+	min-height:300px;
+}
+
+
+/*////////old gen////////*/
+
+.billboarda .card-panel
+{
+	padding:64px 32px;
+}
+
+.jbrands img
+{
+	height: 88px;
+    width: 100%;
+}
+
+.ylogo img
+{
+	float: none !important;
+}
+
+.jproductshowcase .main
+{
+	width: 100%;
+}
+/*////////end old gen////////*/
