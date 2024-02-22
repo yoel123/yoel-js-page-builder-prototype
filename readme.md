@@ -38,7 +38,7 @@ it is made mostly with vanila js (exept for the save as zip feature it uses jszi
 
 # test it yourself:
 
-[demo link](https://yoel123.github.io/godot-yoel-space-sim-game/)
+[demo link](https://yoel123.github.io/yoel-js-page-builder-prototype/)
 
 # screenshots:
 
