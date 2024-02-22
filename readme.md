@@ -42,7 +42,14 @@ it is made mostly with vanila js (exept for the save as zip feature it uses jszi
 
 # screenshots:
 
-[![gameplay 1](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder1.png)]
+[![screenshot 1](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder1.png)]
+[![screenshot 2](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder2.png)]
+[![screenshot 3](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder3.png)]
+[![screenshot 4](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder4.png)]
+[![screenshot 5](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder5.png)]
+[![screenshot 6](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder6.png)]
+[![screenshot 7](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder7.png)]
+[![screenshot 8](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder8.png)]
 
 #libs used:
 
