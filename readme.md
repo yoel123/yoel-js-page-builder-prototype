@@ -42,7 +42,7 @@ it is made mostly with vanila js (exept for the save as zip feature it uses jszi
 
 # screenshots:
 
-[![gameplay 1](https://github.com/yoel123//blob/main/screenshots/page_builder1.png)]
+[![gameplay 1](https://github.com/yoel123/yoel-js-page-builder-prototype/blob/main/screenshots/page_builder1.png)]
 
 #libs used:
 
